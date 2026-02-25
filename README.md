@@ -37,13 +37,13 @@ Dieses Shell-Script richtet einen Debian/Ubuntu-Server automatisiert und interak
 
 ```bash
 # Script herunterladen
-wget https://raw.githubusercontent.com/DEIN-REPO/setup-virtual-dsm.sh
+wget https://raw.githubusercontent.com/ra5on/vdsm/refs/heads/main/setup.sh)
 
 # Ausführbar machen
-chmod +x setup-virtual-dsm.sh
+chmod +x setup.sh
 
 # Starten
-sudo ./setup-virtual-dsm.sh
+sudo ./setup.sh
 ```
 
 ---
