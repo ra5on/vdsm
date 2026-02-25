@@ -2,6 +2,8 @@
 
 Dieses Shell-Script richtet einen Debian/Ubuntu-Server automatisiert und interaktiv für **Virtual DSM (Synology DSM in Docker)** ein – optimiert für ARM64-Architekturen.
 
+# Original Page: https://github.com/vdsm/virtual-dsm
+
 > Basierend auf: [github.com/vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm)
 
 ---
